@@ -1,6 +1,6 @@
 ### Hi! I'm Dario Skidelsky 👋
 
-- 🇦🇷 I am from Argentina. I'm currently studying systems engineering @ UTN-FRC + a Full Stack Dev course @ Digital House.
+- 🗺️ I am from Argentina. I'm currently studying systems engineering @ UTN-FRC + a Full Stack Dev course @ Digital House.
 
 - 👀 I’m passionate about programming, crypto and languages!
 
