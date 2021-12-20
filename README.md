@@ -4,7 +4,7 @@
 
 - 👀 I’m passionate about programming, crypto and languages!
 
-- 🌱 I’m currently looking forward to improve my programming skills and start my professional career in this space. 
+- 🌱 I’m really looking forward to improve my programming skills and start my professional career in this space. 
 
 - 📚 Besides my node.js capabilities, I have some experience programming in python + some knowledge of a few programming paradigms through languages like Prolog, Haskell and Smalltalk.
 
