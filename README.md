@@ -1,14 +1,14 @@
 ### Hi! I'm Dario Skidelsky 👋
 
-- 🗺️ I am from Argentina. I'm currently studying systems engineering @ UTN-FRC + a Full Stack Dev course @ Digital House.
+- 🗺️ I am from Argentina. I'm currently studying systems engineering @ UTN-FRC.
 
 - 👀 I’m passionate about programming, crypto and languages!
 
 - 🌱 I’m really looking forward to improve my programming skills and start my professional career in this space. 
 
-- 📚 Besides my node.js capabilities, I have some experience programming in python + some knowledge of a few programming paradigms through languages like Prolog, Haskell and Smalltalk.
+- 📚 Besides my node.js skills, I have some experience programming with python and java.
 
-- 🗣️ I'm currently fluent in spanish (native), english and portuguese while also learning a bit of japanese and chinese. 
+- 🗣️ I'm currently fluent in spanish (native), english and portuguese. 
 
 - 📫 You can reach me at www.linkedin.com/in/dario-skidelsky/
 
