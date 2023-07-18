@@ -10,7 +10,7 @@
 
 - 🗣️ I'm currently fluent in spanish (native), english and portuguese. 
 
-- 📫 You can reach me at www.linkedin.com/in/dario-skidelsky/
+- 📫 You can reach me on darioque@dsk.ar or through www.linkedin.com/in/dario-skidelsky/
 
 <!--
 **darioque/darioque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
