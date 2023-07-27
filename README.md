@@ -2,7 +2,7 @@
 
 - 🗺️ I'm from Argentina. I'm currently studying systems engineering @ UTN-FRC.
 
-- 👀 I’m passionate about programming, crypto and languages!
+- 👀 I’m passionate about programming, engineering and languages!
 
 - 🌱 I’m really looking forward to improve my programming skills and start my professional career in this space. 
 
